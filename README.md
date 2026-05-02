@@ -53,11 +53,8 @@ Below is the complete recording of the automated testing session:
 ## 👤 User Role: Booking an Event
 **Objective:** Log in as a user, book an event, and verify it in the dashboard.
 
-````carousel
 ![User Booking Success](assets/walkthrough/user_booking_success_1777544780982.png)
-<!-- slide -->
 ![User My Bookings](assets/walkthrough/user_my_bookings_1777544792263.png)
-````
 
 **Result:** Successfully booked "Tech Conference 2026" and confirmed it appeared in the "My Bookings" list.
 
@@ -75,11 +72,8 @@ Below is the complete recording of the automated testing session:
 ## 🛠️ Admin Role: Approval & Deletion
 **Objective:** Log in as an admin to approve pending events and delete/reject events.
 
-````carousel
 ![Admin Event Approved](assets/walkthrough/admin_event_approved_1777545031587.png)
-<!-- slide -->
 ![Admin Event Deleted](assets/walkthrough/admin_event_deleted_1777545312092.png)
-````
 
 **Result:**
 1.  **Approval:** The "Test Automated Event" created by the organizer was approved.
