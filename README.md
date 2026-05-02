@@ -46,7 +46,7 @@ cd "Online Event Booking and Management"
 ## 🎥 Full Testing Recording
 Below is the complete recording of the automated testing session:
 
-<video src="assets/walkthrough/full_app_test_1777544664154.webp" controls width="100%"></video>
+![Testing Session Recording](assets/walkthrough/full_app_test_1777544664154.webp)
 
 ---
 
