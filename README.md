@@ -8,7 +8,7 @@ Follow these steps to set up and run the project locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/palgunbharadwaj/Online-Event-and-Booking-Management-System.git
 cd "Online Event Booking and Management"
 ```
 
